@@ -10,8 +10,7 @@ models.
 
 **Dataset**
 
-https://raw.githubusercontent.com/Rietaros/kampus_merdeka/main
-/HRDataset_v14.csv
+https://raw.githubusercontent.com/Rietaros/kampus_merdeka/main/HRDataset_v14.csv
 
 **Task**
 1. Answer multiple aggregations questions using Pandas. (please
